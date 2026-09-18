@@ -1,0 +1,517 @@
+Nome da Marca,Tipo,Custo Unitario,Preco Unitario,ID Produto,Categoria
+Contoso,Econômico,"10,69","20,96",873,Acessório para Computador
+Contoso,Econômico,"6,63",13,879,Acessório para Computador
+Contoso,Econômico,"6,63",13,880,Acessório para Computador
+Contoso,Econômico,"6,63",13,881,Acessório para Computador
+Contoso,Econômico,"6,63",13,882,Acessório para Computador
+Contoso,Econômico,"25,49",50,887,Acessório para Computador
+Contoso,Econômico,"25,49",50,888,Acessório para Computador
+Contoso,Econômico,"25,49",50,889,Acessório para Computador
+Contoso,Econômico,"25,49",50,890,Acessório para Computador
+Contoso,Econômico,"9,13","17,9",833,Acessório para Computador
+Contoso,Econômico,"11,68","22,9",834,Acessório para Computador
+Contoso,Econômico,"26,97","52,9",835,Acessório para Computador
+Contoso,Econômico,"8,11","15,9",836,Acessório para Computador
+Contoso,Econômico,"6,07","11,9",837,Acessório para Computador
+Contoso,Econômico,"7,9","15,5",838,Acessório para Computador
+Contoso,Econômico,"7,09","13,9",841,Acessório para Computador
+Contoso,Econômico,"13,71","26,9",842,Acessório para Computador
+Contoso,Econômico,"13,71","26,9",843,Acessório para Computador
+Contoso,Econômico,"13,71","26,9",844,Acessório para Computador
+Contoso,Econômico,"15,27","29,95",800,Acessório para Computador
+Contoso,Econômico,"10,15","19,9",801,Acessório para Computador
+Contoso,Econômico,"7,9","15,5",802,Acessório para Computador
+Contoso,Econômico,"9,13","17,9",803,Acessório para Computador
+Contoso,Econômico,"11,68","22,9",804,Acessório para Computador
+Contoso,Econômico,"26,97","52,9",805,Acessório para Computador
+Contoso,Econômico,"8,11","15,9",806,Acessório para Computador
+Contoso,Econômico,"6,07","11,9",807,Acessório para Computador
+Contoso,Econômico,"6,6","12,95",808,Acessório para Computador
+Contoso,Econômico,"20,34","39,9",809,Acessório para Computador
+Contoso,Econômico,"7,9","15,5",767,Acessório para Computador
+Contoso,Econômico,"9,13","17,9",768,Acessório para Computador
+Contoso,Econômico,"11,68","22,9",769,Acessório para Computador
+Contoso,Econômico,"26,97","52,9",770,Acessório para Computador
+Contoso,Econômico,"8,11","15,9",771,Acessório para Computador
+Contoso,Econômico,"6,07","11,9",772,Acessório para Computador
+Contoso,Econômico,"8,11","15,9",773,Acessório para Computador
+Contoso,Econômico,"7,9","15,5",774,Acessório para Computador
+Contoso,Econômico,"7,09","13,9",777,Acessório para Computador
+Contoso,Econômico,"6,6","12,95",778,Acessório para Computador
+Contoso,Econômico,"20,34","39,9",779,Acessório para Computador
+Contoso,Econômico,"6,6","12,95",782,Acessório para Computador
+Contoso,Econômico,"6,88","13,5",783,Acessório para Computador
+Contoso,Econômico,"5,86","11,5",786,Acessório para Computador
+Contoso,Econômico,"4,84","9,5",787,Acessório para Computador
+Contoso,Econômico,"6,6","12,95",812,Acessório para Computador
+Contoso,Econômico,"6,88","13,5",813,Acessório para Computador
+Contoso,Econômico,"5,86","11,5",816,Acessório para Computador
+Contoso,Econômico,"4,84","9,5",817,Acessório para Computador
+Contoso,Econômico,"15,24","29,9",819,Acessório para Computador
+Contoso,Econômico,13,"25,5",820,Acessório para Computador
+Contoso,Econômico,"6,6","12,95",743,Acessório para Computador
+Contoso,Econômico,"20,34","39,9",744,Acessório para Computador
+Contoso,Econômico,"6,6","12,95",747,Acessório para Computador
+Contoso,Econômico,"6,88","13,5",748,Acessório para Computador
+Contoso,Econômico,"5,86","11,5",751,Acessório para Computador
+Contoso,Econômico,"4,84","9,5",752,Acessório para Computador
+Contoso,Econômico,"15,24","29,9",754,Acessório para Computador
+Contoso,Econômico,13,"25,5",755,Acessório para Computador
+Contoso,Econômico,"6,07","11,9",759,Acessório para Computador
+Contoso,Econômico,"7,09","13,9",760,Acessório para Computador
+Contoso,Econômico,"8,62","16,9",761,Acessório para Computador
+Contoso,Econômico,"15,27","29,95",765,Acessório para Computador
+Contoso,Econômico,"10,15","19,9",766,Acessório para Computador
+Contoso,Econômico,"15,24","29,9",789,Acessório para Computador
+Contoso,Econômico,13,"25,5",790,Acessório para Computador
+Contoso,Econômico,"6,07","11,9",794,Acessório para Computador
+Contoso,Econômico,"7,09","13,9",795,Acessório para Computador
+Contoso,Econômico,"8,62","16,9",796,Acessório para Computador
+Contoso,Econômico,"6,07","11,9",824,Acessório para Computador
+Contoso,Econômico,"7,09","13,9",825,Acessório para Computador
+Contoso,Econômico,"8,62","16,9",826,Acessório para Computador
+Contoso,Econômico,"15,27","29,95",830,Acessório para Computador
+Contoso,Econômico,"10,15","19,9",831,Acessório para Computador
+Contoso,Econômico,"7,9","15,5",832,Acessório para Computador
+Contoso,Econômico,"13,71","26,9",845,Acessório para Computador
+Contoso,Econômico,"7,95","15,6",846,Acessório para Computador
+Contoso,Econômico,"7,95","15,6",847,Acessório para Computador
+Contoso,Econômico,"7,95","15,6",848,Acessório para Computador
+Contoso,Econômico,"7,95","15,6",849,Acessório para Computador
+Contoso,Econômico,"10,69","20,96",870,Acessório para Computador
+Contoso,Econômico,"10,69","20,96",871,Acessório para Computador
+Contoso,Econômico,"10,69","20,96",872,Acessório para Computador
+Contoso,Econômico,"5,09","9,99",1316,Telefone para Casa & Escritório
+Contoso,Econômico,"6,62","12,99",1317,Telefone para Casa & Escritório
+Contoso,Econômico,"8,66","16,99",1318,Telefone para Casa & Escritório
+Contoso,Econômico,"7,23","14,19",1340,Telefone para Casa & Escritório
+Contoso,Econômico,"8,16",16,1341,Telefone para Casa & Escritório
+Contoso,Econômico,"8,16",16,1344,Telefone para Casa & Escritório
+Contoso,Econômico,"5,09","9,99",1349,Telefone para Casa & Escritório
+Contoso,Econômico,"6,62","12,99",1350,Telefone para Casa & Escritório
+Contoso,Econômico,"8,66","16,99",1351,Telefone para Casa & Escritório
+Contoso,Econômico,"7,23","14,19",1373,Telefone para Casa & Escritório
+Contoso,Econômico,"8,16",16,1374,Telefone para Casa & Escritório
+Contoso,Econômico,"8,16",16,1377,Telefone para Casa & Escritório
+Contoso,Econômico,"5,09","9,99",1382,Telefone para Casa & Escritório
+Contoso,Econômico,"6,62","12,99",1383,Telefone para Casa & Escritório
+Contoso,Econômico,"8,66","16,99",1384,Telefone para Casa & Escritório
+Contoso,Econômico,"7,23","14,19",1406,Telefone para Casa & Escritório
+Contoso,Econômico,"8,16",16,1407,Telefone para Casa & Escritório
+Contoso,Econômico,"10,19","19,99",1256,Acessório para Câmera
+Contoso,Econômico,"20,39","39,99",1257,Acessório para Câmera
+Contoso,Econômico,"20,39","39,99",1258,Acessório para Câmera
+Contoso,Econômico,"3,54","6,95",1271,Acessório para Câmera
+Contoso,Econômico,"3,54","6,95",1272,Acessório para Câmera
+Contoso,Econômico,"3,54","6,95",1273,Acessório para Câmera
+Contoso,Econômico,"26,58","52,13",1274,Acessório para Câmera
+Contoso,Econômico,"26,58","52,13",1275,Acessório para Câmera
+Contoso,Econômico,"26,58","52,13",1276,Acessório para Câmera
+Contoso,Econômico,"26,58","52,13",1277,Acessório para Câmera
+Contoso,Econômico,"7,64","14,99",1278,Acessório para Câmera
+Contoso,Econômico,"7,64","14,99",1279,Acessório para Câmera
+Contoso,Econômico,"7,64","14,99",1280,Acessório para Câmera
+Contoso,Econômico,"7,64","14,99",1281,Acessório para Câmera
+Contoso,Econômico,"12,74","24,99",1282,Acessório para Câmera
+Contoso,Econômico,"25,49","49,99",1247,Acessório para Câmera
+Contoso,Econômico,"25,49","49,99",1248,Acessório para Câmera
+Contoso,Econômico,"25,49","49,99",1249,Acessório para Câmera
+Contoso,Econômico,"30,58","59,99",1250,Acessório para Câmera
+Contoso,Econômico,"30,58","59,99",1251,Acessório para Câmera
+Contoso,Econômico,"30,58","59,99",1252,Acessório para Câmera
+Contoso,Econômico,"10,19","19,99",1253,Acessório para Câmera
+Contoso,Econômico,"10,19","19,99",1254,Acessório para Câmera
+Contoso,Econômico,"10,19","19,99",1255,Acessório para Câmera
+Contoso,Econômico,"20,39","39,99",1259,Acessório para Câmera
+Contoso,Econômico,"18,86","36,99",1260,Acessório para Câmera
+Contoso,Econômico,"18,86","36,99",1261,Acessório para Câmera
+Contoso,Econômico,"18,86","36,99",1262,Acessório para Câmera
+Contoso,Econômico,"35,68","69,99",1263,Acessório para Câmera
+Contoso,Econômico,"35,68","69,99",1264,Acessório para Câmera
+Contoso,Econômico,"35,68","69,99",1265,Acessório para Câmera
+Contoso,Econômico,"25,47","49,96",1266,Acessório para Câmera
+Contoso,Econômico,"25,47","49,96",1267,Acessório para Câmera
+Contoso,Econômico,"25,47","49,96",1268,Acessório para Câmera
+Contoso,Econômico,"25,47","49,96",1269,Acessório para Câmera
+Contoso,Econômico,"3,54","6,95",1270,Acessório para Câmera
+Contoso,Econômico,"12,74","24,99",1283,Acessório para Câmera
+Contoso,Econômico,"12,74","24,99",1284,Acessório para Câmera
+Contoso,Econômico,"12,74","24,99",1285,Acessório para Câmera
+Contoso,Econômico,"39,76","77,99",1286,Acessório para Câmera
+Contoso,Econômico,"39,76","77,99",1287,Acessório para Câmera
+Contoso,Econômico,"39,76","77,99",1288,Acessório para Câmera
+Contoso,Econômico,"39,76","77,99",1289,Acessório para Câmera
+Contoso,Econômico,"14,28",28,1308,Acessório para Câmera
+Contoso,Econômico,"14,28",28,1309,Acessório para Câmera
+Contoso,Econômico,"14,28",28,1310,Acessório para Câmera
+Contoso,Econômico,"14,28",28,1311,Acessório para Câmera
+Contoso,Econômico,"6,62","12,99",1,Aparelho de Som
+Contoso,Econômico,"6,62","12,99",2,Aparelho de Som
+Contoso,Econômico,"7,4","14,52",3,Aparelho de Som
+Contoso,Econômico,11,"21,57",4,Aparelho de Som
+Contoso,Econômico,11,"21,57",5,Aparelho de Som
+Contoso,Econômico,11,"21,57",6,Aparelho de Som
+Contoso,Econômico,11,"21,57",7,Aparelho de Som
+Contoso,Econômico,"30,58","59,99",8,Aparelho de Som
+Contoso,Econômico,"30,58","59,99",9,Aparelho de Som
+Contoso,Econômico,"30,58","59,99",10,Aparelho de Som
+Contoso,Econômico,"30,58","59,99",11,Aparelho de Som
+Contoso,Econômico,"35,72","77,68",12,Aparelho de Som
+Contoso,Econômico,"35,72","77,68",13,Aparelho de Som
+Contoso,Econômico,"35,72","77,68",14,Aparelho de Som
+Contoso,Econômico,"35,72","77,68",15,Aparelho de Som
+Contoso,Econômico,"152,44",299,240,Home Theater
+Contoso,Econômico,"101,46",199,249,Home Theater
+Contoso,Econômico,"152,44",299,253,Home Theater
+Contoso,Econômico,"101,46",199,262,Home Theater
+Contoso,Econômico,"152,44",299,266,Home Theater
+Contoso,Econômico,"101,46",199,275,Home Theater
+Contoso,Econômico,"152,44",299,279,Home Theater
+Contoso,Econômico,"101,46",199,288,Home Theater
+Contoso,Econômico,"148,08",322,1106,Câmera Digital SLR
+Contoso,Econômico,"86,91",189,1468,Smartphone
+Contoso,Econômico,"91,97",200,1469,Smartphone
+Contoso,Econômico,"91,51",199,1465,Smartphone
+Contoso,Econômico,"62,95",190,584,Projetor
+Contoso,Econômico,"70,87",139,585,Projetor
+Contoso,Econômico,"55,57",109,586,Projetor
+Contoso,Econômico,"62,95",190,596,Projetor
+Contoso,Econômico,"70,87",139,597,Projetor
+Contoso,Econômico,"55,57",109,598,Projetor
+Contoso,Econômico,"62,95",190,608,Projetor
+Contoso,Econômico,"70,87",139,609,Projetor
+Contoso,Econômico,"55,57",109,610,Projetor
+Contoso,Econômico,"144,4",314,1078,Câmera Digital SLR
+Contoso,Econômico,"139,8",304,1082,Câmera Digital SLR
+Contoso,Econômico,"139,8",304,1086,Câmera Digital SLR
+Contoso,Econômico,"6,62","12,99",1621,Filme DVD
+Contoso,Econômico,"5,09","9,99",1629,Filme DVD
+Contoso,Econômico,"5,09","9,99",1634,Filme DVD
+Contoso,Econômico,"5,09","9,99",1639,Filme DVD
+Contoso,Econômico,"56,08","109,99",1648,Filme DVD
+Contoso,Econômico,"56,08","109,99",1653,Filme DVD
+Contoso,Econômico,"56,08","109,99",1658,Filme DVD
+Contoso,Econômico,"7,64","14,99",2488,Acessórios para Telefone & Tablet
+Contoso,Econômico,"7,64","14,99",2489,Acessórios para Telefone & Tablet
+Contoso,Econômico,"7,64","14,99",2490,Acessórios para Telefone & Tablet
+Contoso,Econômico,"12,74","24,99",2491,Acessórios para Telefone & Tablet
+Contoso,Econômico,"12,74","24,99",2492,Acessórios para Telefone & Tablet
+Contoso,Econômico,"12,74","24,99",2493,Acessórios para Telefone & Tablet
+Contoso,Econômico,"1,5","2,94",2494,Acessórios para Telefone & Tablet
+Contoso,Econômico,"5,09","9,99",2495,Acessórios para Telefone & Tablet
+Contoso,Econômico,"5,09","9,99",2496,Acessórios para Telefone & Tablet
+Contoso,Econômico,"5,09","9,99",2497,Acessórios para Telefone & Tablet
+Contoso,Econômico,"12,09","23,72",2498,Acessórios para Telefone & Tablet
+Contoso,Econômico,"12,09","23,72",2499,Acessórios para Telefone & Tablet
+Contoso,Econômico,"12,09","23,72",2500,Acessórios para Telefone & Tablet
+Contoso,Econômico,"12,09","23,72",2501,Acessórios para Telefone & Tablet
+Contoso,Econômico,"5,09","9,99",2502,Acessórios para Telefone & Tablet
+Contoso,Econômico,"5,09","9,99",2503,Acessórios para Telefone & Tablet
+Contoso,Econômico,"5,09","9,99",2504,Acessórios para Telefone & Tablet
+Contoso,Econômico,"5,09","9,99",2505,Acessórios para Telefone & Tablet
+Contoso,Econômico,"2,42","4,74",2506,Acessórios para Telefone & Tablet
+Contoso,Econômico,"2,42","4,74",2507,Acessórios para Telefone & Tablet
+Contoso,Econômico,"2,42","4,74",2508,Acessórios para Telefone & Tablet
+Contoso,Econômico,"2,07","4,06",2509,Acessórios para Telefone & Tablet
+Contoso,Econômico,"2,07","4,06",2510,Acessórios para Telefone & Tablet
+Contoso,Econômico,"2,07","4,06",2511,Acessórios para Telefone & Tablet
+Contoso,Econômico,"1,71","3,35",2515,Acessórios para Telefone & Tablet
+Contoso,Econômico,"1,71","3,35",2516,Acessórios para Telefone & Tablet
+Contoso,Econômico,"1,71","3,35",2517,Acessórios para Telefone & Tablet
+Wide World Importers,Econômico,"76,45","149,95",46,Caneta Gravadora
+Wide World Importers,Econômico,"76,45","149,95",47,Caneta Gravadora
+Wide World Importers,Econômico,"76,45","149,95",48,Caneta Gravadora
+Wide World Importers,Econômico,"79,53",156,57,Caneta Gravadora
+Wide World Importers,Econômico,"79,53",156,58,Caneta Gravadora
+Wide World Importers,Econômico,"79,53",156,59,Caneta Gravadora
+Wide World Importers,Econômico,"79,53",156,60,Caneta Gravadora
+Northwind Traders,Econômico,"13,1","25,69",66,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"13,1","25,69",67,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"13,1","25,69",68,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"13,1","25,69",69,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"22,05","47,95",70,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"22,05","47,95",71,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"22,05","47,95",72,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"22,05","47,95",73,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"17,45","37,95",74,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"17,45","37,95",75,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"17,45","37,95",76,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"17,45","37,95",77,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"18,65","40,55",78,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"18,65","40,55",79,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"18,65","40,55",80,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"18,65","40,55",81,Fone de Ouvido Bluetooth
+Northwind Traders,Econômico,"18,65","40,55",82,Fone de Ouvido Bluetooth
+Wide World Importers,Econômico,"34,36","67,4",93,Fone de Ouvido Bluetooth
+Wide World Importers,Econômico,"34,36","67,4",94,Fone de Ouvido Bluetooth
+Wide World Importers,Econômico,"34,36","67,4",95,Fone de Ouvido Bluetooth
+Wide World Importers,Econômico,"34,36","67,4",96,Fone de Ouvido Bluetooth
+Wide World Importers,Econômico,"34,36","67,4",97,Fone de Ouvido Bluetooth
+Adventure Works,Econômico,"86,67","169,99",116,Televisão
+Adventure Works,Econômico,"86,67","169,99",117,Televisão
+Adventure Works,Econômico,"86,67","169,99",118,Televisão
+Adventure Works,Econômico,"61,17","119,99",119,Televisão
+Adventure Works,Econômico,"61,17","119,99",120,Televisão
+Adventure Works,Econômico,"61,17","119,99",121,Televisão
+Adventure Works,Econômico,"73,11","143,4",125,Televisão
+Adventure Works,Econômico,"73,11","143,4",126,Televisão
+Adventure Works,Econômico,"73,11","143,4",127,Televisão
+Adventure Works,Econômico,"73,11","143,4",128,Televisão
+Adventure Works,Econômico,"101,97",200,129,Televisão
+Adventure Works,Econômico,"101,97",200,130,Televisão
+Adventure Works,Econômico,"101,97",200,131,Televisão
+Adventure Works,Econômico,"101,97",200,132,Televisão
+Southridge Video,Econômico,"35,18",69,167,DVD
+Southridge Video,Econômico,"45,53",99,171,DVD
+Southridge Video,Econômico,"45,83","89,9",173,DVD
+Southridge Video,Econômico,"29,01","56,9",177,DVD
+Southridge Video,Econômico,"33,65",66,178,DVD
+Southridge Video,Econômico,"35,18",69,180,DVD
+Southridge Video,Econômico,"45,53",99,184,DVD
+Southridge Video,Econômico,"45,83","89,9",186,DVD
+Southridge Video,Econômico,"29,01","56,9",190,DVD
+Southridge Video,Econômico,"33,65",66,191,DVD
+Litware,Econômico,"152,44",299,194,Home Theater
+Litware,Econômico,"137,6","269,9",196,Home Theater
+Litware,Econômico,"152,9","299,9",197,Home Theater
+Litware,Econômico,"152,44",299,210,Home Theater
+Litware,Econômico,"137,6","269,9",212,Home Theater
+Litware,Econômico,"152,9","299,9",213,Home Theater
+Litware,Econômico,"152,44",299,226,Home Theater
+Litware,Econômico,"137,6","269,9",228,Home Theater
+Litware,Econômico,"152,9","299,9",229,Home Theater
+Southridge Video,Econômico,"30,58","59,99",891,Acessório para Computador
+Southridge Video,Econômico,"30,58","59,99",892,Acessório para Computador
+Southridge Video,Econômico,"30,58","59,99",893,Acessório para Computador
+Southridge Video,Econômico,"30,58","59,99",894,Acessório para Computador
+Southridge Video,Econômico,"21,28","41,73",895,Acessório para Computador
+Southridge Video,Econômico,"21,28","41,73",896,Acessório para Computador
+Southridge Video,Econômico,"21,28","41,73",897,Acessório para Computador
+Southridge Video,Econômico,"21,28","41,73",898,Acessório para Computador
+Proseware,Econômico,"40,28",79,644,"Impressora, Scanner & Fax"
+Proseware,Econômico,"44,36",87,647,"Impressora, Scanner & Fax"
+Proseware,Econômico,"40,28",79,648,"Impressora, Scanner & Fax"
+Proseware,Econômico,"46,39",91,649,"Impressora, Scanner & Fax"
+Proseware,Econômico,"39,77",78,650,"Impressora, Scanner & Fax"
+A. Datum,Econômico,"75,88",165,947,Câmera Digital
+Southridge Video,Econômico,"22,43",44,902,Acessório para Computador
+Southridge Video,Econômico,"38,74","75,99",903,Acessório para Computador
+Southridge Video,Econômico,"38,74","75,99",904,Acessório para Computador
+Southridge Video,Econômico,"38,74","75,99",905,Acessório para Computador
+Southridge Video,Econômico,"38,74","75,99",906,Acessório para Computador
+Southridge Video,Econômico,52,102,907,Acessório para Computador
+Southridge Video,Econômico,52,102,908,Acessório para Computador
+Southridge Video,Econômico,52,102,909,Acessório para Computador
+Southridge Video,Econômico,52,102,910,Acessório para Computador
+Fabrikam,Econômico,"91,77",180,1164,Câmera e Filmadora
+Fabrikam,Econômico,"86,67",170,1165,Câmera e Filmadora
+Fabrikam,Econômico,"84,12",165,1166,Câmera e Filmadora
+Fabrikam,Econômico,"81,57",160,1167,Câmera e Filmadora
+Southridge Video,Econômico,"142,24",279,327,Sistema Audivisual para Carro
+Southridge Video,Econômico,"132,05",259,328,Sistema Audivisual para Carro
+Southridge Video,Econômico,"137,14",269,329,Sistema Audivisual para Carro
+Southridge Video,Econômico,"101,46",199,331,Sistema Audivisual para Carro
+Southridge Video,Econômico,"111,65",219,332,Sistema Audivisual para Carro
+Southridge Video,Econômico,"17,33","33,99",927,Acessório para Computador
+Southridge Video,Econômico,"17,33","33,99",928,Acessório para Computador
+Southridge Video,Econômico,"17,33","33,99",929,Acessório para Computador
+Southridge Video,Econômico,"17,33","33,99",930,Acessório para Computador
+Southridge Video,Econômico,"28,04",55,931,Acessório para Computador
+Southridge Video,Econômico,"28,04",55,932,Acessório para Computador
+Southridge Video,Econômico,"28,04",55,933,Acessório para Computador
+Southridge Video,Econômico,"50,47",99,938,Acessório para Computador
+Southridge Video,Econômico,"50,47",99,939,Acessório para Computador
+Southridge Video,Econômico,"50,47",99,940,Acessório para Computador
+Southridge Video,Econômico,"21,41","41,99",941,Acessório para Computador
+Southridge Video,Econômico,"21,41","41,99",942,Acessório para Computador
+Southridge Video,Econômico,"21,41","41,99",943,Acessório para Computador
+A. Datum,Econômico,"59,32",129,944,Câmera Digital
+A. Datum,Econômico,"68,06",148,946,Câmera Digital
+A. Datum,Econômico,"59,32",129,958,Câmera Digital
+A. Datum,Econômico,"68,06",148,960,Câmera Digital
+Adventure Works,Econômico,"137,63","269,95",430,Desktop
+Adventure Works,Econômico,"137,63","269,95",435,Desktop
+Proseware,Econômico,"40,28",79,677,"Impressora, Scanner & Fax"
+Proseware,Econômico,"46,39",91,678,"Impressora, Scanner & Fax"
+Proseware,Econômico,"39,77",78,679,"Impressora, Scanner & Fax"
+Proseware,Econômico,52,102,694,"Impressora, Scanner & Fax"
+A. Datum,Econômico,"59,32",129,972,Câmera Digital
+A. Datum,Econômico,"68,06",148,974,Câmera Digital
+A. Datum,Econômico,"75,88",165,975,Câmera Digital
+A. Datum,Econômico,"59,32",129,986,Câmera Digital
+A. Datum,Econômico,"68,06",148,988,Câmera Digital
+A. Datum,Econômico,"75,88",165,989,Câmera Digital
+Fabrikam,Econômico,"91,77",180,1212,Câmera e Filmadora
+Fabrikam,Econômico,"86,67",170,1213,Câmera e Filmadora
+Fabrikam,Econômico,"84,12",165,1214,Câmera e Filmadora
+Fabrikam,Econômico,"81,57",160,1215,Câmera e Filmadora
+Southridge Video,Econômico,"142,24",279,295,Sistema Audivisual para Carro
+Southridge Video,Econômico,"132,05",259,296,Sistema Audivisual para Carro
+Southridge Video,Econômico,"137,14",269,297,Sistema Audivisual para Carro
+Southridge Video,Econômico,"101,46",199,299,Sistema Audivisual para Carro
+Southridge Video,Econômico,"111,65",219,300,Sistema Audivisual para Carro
+Southridge Video,Econômico,"142,24",279,311,Sistema Audivisual para Carro
+Southridge Video,Econômico,"132,05",259,312,Sistema Audivisual para Carro
+Southridge Video,Econômico,"137,14",269,313,Sistema Audivisual para Carro
+Southridge Video,Econômico,"101,46",199,315,Sistema Audivisual para Carro
+Southridge Video,Econômico,"111,65",219,316,Sistema Audivisual para Carro
+Wide World Importers,Econômico,"117,21","229,9",447,Desktop
+Wide World Importers,Econômico,"137,6","269,9",448,Desktop
+Wide World Importers,Econômico,"112,14","219,95",452,Desktop
+Wide World Importers,Econômico,"117,21","229,9",453,Desktop
+Wide World Importers,Econômico,"137,6","269,9",454,Desktop
+Wide World Importers,Econômico,"112,14","219,95",457,Desktop
+Wide World Importers,Econômico,"117,21","229,9",458,Desktop
+Wide World Importers,Econômico,"137,6","269,9",459,Desktop
+Wide World Importers,Econômico,"152,9","299,9",460,Desktop
+Proseware,Econômico,"63,92",139,467,Monitor
+Fabrikam,Econômico,"138,88",302,1110,Câmera Digital SLR
+Fabrikam,Econômico,"150,84",328,1111,Câmera Digital SLR
+Adventure Works,Econômico,"22,86",69,514,Monitor
+Adventure Works,Econômico,"30,08",59,515,Monitor
+Adventure Works,Econômico,"29,82",90,516,Monitor
+Wide World Importers,Econômico,"70,87",139,523,Monitor
+The Phone Company,Econômico,"65,77",129,1470,Tablet
+The Phone Company,Econômico,"86,91",189,1457,Smartphone
+The Phone Company,Econômico,"91,97",200,1458,Smartphone
+The Phone Company,Econômico,"65,77",129,1490,Tablet
+Fabrikam,Econômico,"171,3",336,351,Laptop
+Fabrikam,Econômico,"163,15",320,352,Laptop
+Fabrikam,Econômico,"168,24",330,357,Laptop
+Fabrikam,Econômico,"166,2",326,358,Laptop
+Adventure Works,Econômico,"166,2",326,367,Laptop
+Adventure Works,Econômico,"166,2",326,373,Laptop
+Adventure Works,Econômico,"166,2",326,379,Laptop
+Wide World Importers,Econômico,"87,37",190,620,Projetor
+Wide World Importers,Econômico,"70,87",139,621,Projetor
+Wide World Importers,Econômico,"87,37",190,631,Projetor
+Wide World Importers,Econômico,"70,87",139,632,Projetor
+Adventure Works,Econômico,"166,2",326,385,Laptop
+Wide World Importers,Econômico,"166,2",326,395,Laptop
+Wide World Importers,Econômico,"166,2",326,401,Laptop
+Proseware,Econômico,"166,2",326,409,Laptop
+Proseware,Econômico,"166,2",326,415,Laptop
+Adventure Works,Econômico,"137,63","269,95",418,Desktop
+Adventure Works,Econômico,"137,63","269,95",424,Desktop
+Wide World Importers,Econômico,"112,14","219,95",440,Desktop
+Wide World Importers,Econômico,"117,21","229,9",441,Desktop
+Wide World Importers,Econômico,"137,6","269,9",442,Desktop
+Wide World Importers,Econômico,"112,14","219,95",446,Desktop
+Proseware,Econômico,"50,47",99,469,Monitor
+Proseware,Econômico,"65,77",129,470,Monitor
+Proseware,Econômico,"50,47",99,471,Monitor
+Proseware,Econômico,"35,18",69,472,Monitor
+Proseware,Econômico,"30,08",59,473,Monitor
+Proseware,Econômico,"24,98",49,474,Monitor
+Proseware,Econômico,"63,92",139,481,Monitor
+Proseware,Econômico,"50,47",99,483,Monitor
+Proseware,Econômico,"65,77",129,484,Monitor
+Proseware,Econômico,"50,47",99,485,Monitor
+Proseware,Econômico,"35,18",69,486,Monitor
+Proseware,Econômico,"30,08",59,487,Monitor
+Proseware,Econômico,"24,98",49,488,Monitor
+Adventure Works,Econômico,"70,87",139,495,Monitor
+Adventure Works,Econômico,"50,47",99,497,Monitor
+Adventure Works,Econômico,"65,77",129,498,Monitor
+Adventure Works,Econômico,"50,47",99,499,Monitor
+Adventure Works,Econômico,"22,86",69,500,Monitor
+Adventure Works,Econômico,"30,08",59,501,Monitor
+Adventure Works,Econômico,"29,82",90,502,Monitor
+Adventure Works,Econômico,"70,87",139,509,Monitor
+Adventure Works,Econômico,"50,47",99,511,Monitor
+Adventure Works,Econômico,"65,77",129,512,Monitor
+Adventure Works,Econômico,"50,47",99,513,Monitor
+Wide World Importers,Econômico,"50,47",99,525,Monitor
+Wide World Importers,Econômico,"65,77",129,526,Monitor
+Wide World Importers,Econômico,"50,47",99,527,Monitor
+Wide World Importers,Econômico,"70,87",139,534,Monitor
+Wide World Importers,Econômico,"50,47",99,536,Monitor
+Wide World Importers,Econômico,"65,77",129,537,Monitor
+Wide World Importers,Econômico,"50,47",99,538,Monitor
+Proseware,Econômico,"87,37",190,548,Projetor
+Proseware,Econômico,"70,87",139,549,Projetor
+Proseware,Econômico,"55,57",109,550,Projetor
+Proseware,Econômico,"87,37",190,560,Projetor
+Proseware,Econômico,"70,87",139,561,Projetor
+Proseware,Econômico,"55,57",109,562,Projetor
+Proseware,Econômico,"87,37",190,572,Projetor
+Proseware,Econômico,"70,87",139,573,Projetor
+Proseware,Econômico,"55,57",109,574,Projetor
+Proseware,Econômico,52,102,665,"Impressora, Scanner & Fax"
+Proseware,Econômico,"40,28",79,673,"Impressora, Scanner & Fax"
+Proseware,Econômico,"44,36",87,676,"Impressora, Scanner & Fax"
+Proseware,Econômico,"40,28",79,702,"Impressora, Scanner & Fax"
+Proseware,Econômico,"44,36",87,705,"Impressora, Scanner & Fax"
+Proseware,Econômico,"40,28",79,706,"Impressora, Scanner & Fax"
+Proseware,Econômico,"46,39",91,707,"Impressora, Scanner & Fax"
+Proseware,Econômico,"39,77",78,708,"Impressora, Scanner & Fax"
+Proseware,Econômico,52,102,723,"Impressora, Scanner & Fax"
+Proseware,Econômico,52,102,742,"Impressora, Scanner & Fax"
+Southridge Video,Econômico,"22,43",44,899,Acessório para Computador
+Southridge Video,Econômico,"22,43",44,900,Acessório para Computador
+Southridge Video,Econômico,"22,43",44,901,Acessório para Computador
+Southridge Video,Econômico,"0,48","0,95",919,Acessório para Computador
+Southridge Video,Econômico,"0,48","0,95",920,Acessório para Computador
+Southridge Video,Econômico,"0,48","0,95",921,Acessório para Computador
+Southridge Video,Econômico,"0,48","0,95",922,Acessório para Computador
+Southridge Video,Econômico,"1,01","1,99",923,Acessório para Computador
+Southridge Video,Econômico,"1,01","1,99",924,Acessório para Computador
+Southridge Video,Econômico,"1,01","1,99",925,Acessório para Computador
+Southridge Video,Econômico,"1,01","1,99",926,Acessório para Computador
+A. Datum,Econômico,"75,88",165,961,Câmera Digital
+A. Datum,Econômico,"59,32",129,1000,Câmera Digital
+A. Datum,Econômico,"68,06",148,1002,Câmera Digital
+A. Datum,Econômico,"75,88",165,1003,Câmera Digital
+A. Datum,Econômico,"59,32",129,1014,Câmera Digital
+A. Datum,Econômico,"68,06",148,1016,Câmera Digital
+A. Datum,Econômico,"75,88",165,1017,Câmera Digital
+A. Datum,Econômico,"59,32",129,1028,Câmera Digital
+A. Datum,Econômico,"68,06",148,1030,Câmera Digital
+A. Datum,Econômico,"75,88",165,1031,Câmera Digital
+A. Datum,Econômico,"143,48",312,1046,Câmera Digital SLR
+A. Datum,Econômico,"143,48",312,1050,Câmera Digital SLR
+A. Datum,Econômico,"143,48",312,1054,Câmera Digital SLR
+A. Datum,Econômico,"143,48",312,1058,Câmera Digital SLR
+A. Datum,Econômico,"143,48",312,1062,Câmera Digital SLR
+A. Datum,Econômico,"143,48",312,1066,Câmera Digital SLR
+A. Datum,Econômico,"143,48",312,1070,Câmera Digital SLR
+A. Datum,Econômico,"143,48",312,1074,Câmera Digital SLR
+Fabrikam,Econômico,"150,84",328,1115,Câmera Digital SLR
+Fabrikam,Econômico,"150,84",328,1119,Câmera Digital SLR
+Fabrikam,Econômico,"150,84",328,1123,Câmera Digital SLR
+Fabrikam,Econômico,"91,77",180,1188,Câmera e Filmadora
+Fabrikam,Econômico,"86,67",170,1189,Câmera e Filmadora
+Fabrikam,Econômico,"84,12",165,1190,Câmera e Filmadora
+Fabrikam,Econômico,"81,57",160,1191,Câmera e Filmadora
+The Phone Company,Econômico,"86,91",189,1423,Smartphone
+The Phone Company,Econômico,"91,97",200,1424,Smartphone
+Fabrikam,Econômico,"150,84",328,1127,Câmera Digital SLR
+Fabrikam,Econômico,"146,7",319,1130,Câmera Digital SLR
+Fabrikam,Econômico,"150,84",328,1131,Câmera Digital SLR
+Fabrikam,Econômico,"146,7",319,1134,Câmera Digital SLR
+Fabrikam,Econômico,"150,84",328,1135,Câmera Digital SLR
+Fabrikam,Econômico,"150,84",328,1139,Câmera Digital SLR
+Fabrikam,Econômico,"150,84",328,1143,Câmera Digital SLR
+Fabrikam,Econômico,"95,85",188,1236,Câmera e Filmadora
+Fabrikam,Econômico,"90,75",178,1237,Câmera e Filmadora
+Fabrikam,Econômico,"85,65",168,1238,Câmera e Filmadora
+Fabrikam,Econômico,"80,55",158,1239,Câmera e Filmadora
+Fabrikam,Econômico,"95,85",188,1243,Câmera e Filmadora
+Fabrikam,Econômico,"90,75",178,1244,Câmera e Filmadora
+Fabrikam,Econômico,"85,65",168,1245,Câmera e Filmadora
+Fabrikam,Econômico,"80,55",158,1246,Câmera e Filmadora
+The Phone Company,Econômico,"65,77",129,1480,Tablet
+Southridge Video,Econômico,"6,62","12,99",1576,Filme DVD
+Southridge Video,Econômico,"5,09","9,99",1584,Filme DVD
+Southridge Video,Econômico,"5,09","9,99",1589,Filme DVD
+Southridge Video,Econômico,"5,09","9,99",1594,Filme DVD
+The Phone Company,Econômico,"91,51",199,1420,Smartphone
+The Phone Company,Econômico,"91,51",199,1437,Smartphone
+The Phone Company,Econômico,"86,91",189,1440,Smartphone
+The Phone Company,Econômico,"91,97",200,1441,Smartphone
+The Phone Company,Econômico,"91,51",199,1454,Smartphone
+The Phone Company,Econômico,"65,77",129,1500,Tablet
+The Phone Company,Econômico,"65,77",129,1510,Tablet
+Southridge Video,Econômico,"56,08","109,99",1603,Filme DVD
+Southridge Video,Econômico,"56,08","109,99",1608,Filme DVD
+Southridge Video,Econômico,"56,08","109,99",1613,Filme DVD
